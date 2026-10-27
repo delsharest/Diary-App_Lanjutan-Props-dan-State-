@@ -1,4 +1,4 @@
-# Diary App — Praktikum Pertemuan 2
+# Diary App — Praktikum Pertemuan 4
 
 **Mata kuliah:** Pemrograman Mobile Multiplatform  
 **Nama:** Fadhla Rahayu Alfairuz  
@@ -14,17 +14,7 @@ Aplikasi daftar buku harian statis menggunakan React Native dan Expo CLI. Aplika
 4. Jalankan `npx expo start`.
 5. Pindai QR code dengan Expo Go (pastikan laptop dan HP dapat terhubung).
 
-## Fitur yang diselesaikan
-- Menampilkan **5 entri diary statis** dalam `ScrollView`.
-- Menggunakan komponen reusable `src/components/DiaryCard.js` dan `props`.
-- Menampilkan gambar mood, judul, tanggal, dan ringkasan maksimal 3 baris.
-- Menggunakan **gambar lokal** `assets/moods/happy.png` pada salah satu entri.
-- Menampilkan **avatar** di header dari `assets/avatar.png`.
-- Menggunakan **warna border kiri yang berbeda** sesuai mood kartu.
-- Styling menggunakan `StyleSheet` dan layout `Flexbox`.
 
-## Dokumentasi Pengujian
-Aplikasi Diary App telah berhasil dijalankan menggunakan Expo Go pada perangkat Android. Pengujian menunjukkan bahwa aplikasi mampu menampilkan lima entri buku harian, gambar mood, avatar pengguna, serta variasi warna border pada setiap kartu.
 
 Hasil screenshot pengujian disimpan dalam folder `screenshots/` sebagai bukti aplikasi telah berhasil dijalankan.
 
